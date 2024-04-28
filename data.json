@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "name1",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ipsa debitis incidunt dolorem dolor fugit minima, vel vero unde numquam minus dicta! Ipsam enim similique commodi id tempora cupiditate suscipit.",
+    "following": true,
+    "date": "10 minutes ago",
+    "comments": [
+      { "user": "some user", "text": "first comment" },
+      { "user": "some user", "text": "very nice" },
+      { "user": "some user", "text": "good" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "name2",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ipsa debitis incidunt dolorem dolor fugit minima, vel vero unde numquam minus dicta! Ipsam enim similique commodi id tempora cupiditate suscipit.",
+    "following": false,
+    "date": "30 minutes ago",
+    "comments": [
+      { "user": "some user", "text": "first comment" },
+      { "user": "some user", "text": "very nice" },
+      { "user": "some user", "text": "good" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "name3",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ipsa debitis incidunt dolorem dolor fugit minima, vel vero unde numquam minus dicta! Ipsam enim similique commodi id tempora cupiditate suscipit.",
+    "following": false,
+    "date": "moments ago",
+    "comments": [
+      { "user": "some user", "text": "first comment" },
+      { "user": "some user", "text": "very nice" },
+      { "user": "some user", "text": "good" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "name4",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ipsa debitis incidunt dolorem dolor fugit minima, vel vero unde numquam minus dicta! Ipsam enim similique commodi id tempora cupiditate suscipit.",
+    "following": true,
+    "date": "1 hour ago",
+    "comments": [
+      { "user": "some user", "text": "first comment" },
+      { "user": "some user", "text": "very nice" },
+      { "user": "some user", "text": "good" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "name5",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ipsa debitis incidunt dolorem dolor fugit minima, vel vero unde numquam minus dicta! Ipsam enim similique commodi id tempora cupiditate suscipit.",
+    "following": true,
+    "date": "1 hour ago",
+    "comments": [
+      { "user": "some user", "text": "first comment" },
+      { "user": "some user", "text": "very nice" },
+      { "user": "some user", "text": "good" }
+    ]
+  }
+]
